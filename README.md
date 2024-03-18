@@ -1,10 +1,14 @@
-<header>
+<Shigraf_khalid>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+
+  <<< Author Shigraf Khalid >>>
+## Subject Line
+
+Hello, I'm Shigraf Khalid, a dedicated engineering student with a strong penchant for technology and digital marketing. With 1.5 years of hands-on experience in the digital marketing arena and certifications from Google and Coursera, I'm deeply committed to pushing the boundaries of what's possible in this ever-evolving field. Beyond my studies, I've crafted a track record of impactful projects in data analysis using R and SQL. These projects have honed my analytical skills and provided me with valuable insights into data-driven decision-making. As a public speaker, I use my communication skills to share knowledge and inspire others. Currently serving as the Campus Lead Ambassador for the CISCO community in Pakistan, I'm passionate about fostering tech collaboration and knowledge exchange. Let's connect and explore ways to innovate and grow together in the realms of engineering, technology, and digital marketing.
+**Closes #[Issue Number]** (if applicable)
+
+If your commit fixes a specific issue, reference the issue number here. This helps link your code changes to the bug report or feature request.
+
 -->
 
 # Communicate using Markdown
